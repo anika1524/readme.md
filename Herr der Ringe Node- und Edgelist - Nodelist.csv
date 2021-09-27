@@ -1,0 +1,8 @@
+id,name,weight,species,,,,
+F,Frodo,2,hobbit,,,,
+S,Sam,3,hobbit,,,,
+M,Merry,1,hobbit,,,,"weight: 1=skinny, 2=normal, 3=overweight"
+P,Pippin,1,hobbit,,,,
+A,Aragorn,2,human,,,,
+G,Gimli,3,dwarf,,,,
+L,Legolas,1,elf,,,,
